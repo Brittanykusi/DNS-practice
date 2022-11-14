@@ -5,7 +5,9 @@
   - External IP address in 'Destination IPV4 Address' field
   - 7200 in 'Time-to-live (TTL)' field
 - Cloud Vendor: GCP
+
 ## Create a .tech DNS
+https://get.tech/github-student-developer-pack
 
 ## Create and styilize a web application with many pages.
 
