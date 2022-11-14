@@ -26,10 +26,20 @@
 
 ## Connect DNS (.tech) to virtual machine/Deloy application
 - start a virtual machine
+  - to make sure your nm enviroment is condusive for your flask app deployment run these commands
+    - `sudo apt-get update`
+    - `sudo apt install python3-pip`
+    - `pip3 install flask`
+- connect DNS to virtual machine
+  - create a student .tech domain (link here)
+    - in the top right corner, underneath your name, navigate you 'My Account'
+    - under manage orders click list/search orders
+    - click on your domain name
+  - in put values as specified above under 'A' record 
 - clone repository to cloud terminal
 - find folder the application is housed within your cloud terminal 
 - change directory (cd) to the folder
-- still within your terminal run (python 'appname'.py) 
+- still within your terminal run (python3 'appname'.py) 
 
 
 #### How to's
