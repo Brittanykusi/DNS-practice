@@ -46,6 +46,6 @@ https://get.tech/github-student-developer-pack
 
 #### How to's
 - add a link | https://github.com/Brittanykusi/DNS-practice/blob/5ac0b9156f7320f3f7a21257223581d0c932e483/Script/templates/p1_homepage.html#L5
-- attach a photo | https://github.com/Brittanykusi/DNS-practice/blob/5ac0b9156f7320f3f7a21257223581d0c932e483Script/templates/p3_patient_landing_page.html#L20
+- attach a photo | https://github.com/Brittanykusi/DNS-practice/blob/5ac0b9156f7320f3f7a21257223581d0c932e483/Script/templates/p3_patient_landing_page.html#L20
 - create a buttion | https://github.com/Brittanykusi/DNS-practice/blob/5ac0b9156f7320f3f7a21257223581d0c932e483/Script/templates/p2_login1.html#L9
 - pull in the css static package of choice | https://github.com/Brittanykusi/DNS-practice/blob/5ac0b9156f7320f3f7a21257223581d0c932e483/Script/templates/p2_login1.html#L4-L5
