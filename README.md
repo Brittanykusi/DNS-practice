@@ -1,15 +1,12 @@
 # DNS-practice
+- Name of Domain: brittanykus.tech
+- 'A' record settings
+  - @ in 'name' field
+  - External IP address in 'Destination IPV4 Address' field
+  - 7200 in 'Time-to-live (TTL)' field
+- Cloud Vendor: GCP
+## Create a .tech DNS
 
-Name of Domain: brittanykus.tech
-'A' record settings
-- 
-- 
-- 
-Cloud Vendor: GCP
-
-A copy of the 'A' record settings that you needed to write (name, value, TTL) 
-
-6. A "/photos" folder that contains screen shots of your live flask application deployed on your website 
 ## Create and styilize a web application with many pages.
 
 ### First Steps
@@ -27,8 +24,10 @@ A copy of the 'A' record settings that you needed to write (name, value, TTL)
 ### connect templates to routes 
 - example | https://github.com/Brittanykusi/flask-html/blob/9fa5d6052ee0126f0a0f2e23f3175510e3a32407/Script/static/styles.css#L1-L23
 
-### Deloy application
-- find folder the application is housed within your terminal 
+## Connect DNS (.tech) to virtual machine/Deloy application
+- start a virtual machine
+- clone repository to cloud terminal
+- find folder the application is housed within your cloud terminal 
 - change directory (cd) to the folder
 - still within your terminal run (python 'appname'.py) 
 
