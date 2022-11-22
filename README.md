@@ -9,6 +9,11 @@
 ## Create a .tech DNS
 https://get.tech/github-student-developer-pack
 
+<<<<<<< Updated upstream
+=======
+A copy of the 'A' record settings that you needed to write (name, value, TTL) 
+
+>>>>>>> Stashed changes
 ## Create and styilize a web application with many pages.
 
 ### First Steps
